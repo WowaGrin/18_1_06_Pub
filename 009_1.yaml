@@ -8,5 +8,4 @@ my:
        - flour3
       cream:
         - sugar4
-        - milk5
       composition: { dough: [eggs, sugar, flour], cream: [sugar, milk]}
