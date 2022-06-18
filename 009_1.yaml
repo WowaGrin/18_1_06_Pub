@@ -4,7 +4,6 @@ my:
       composition: [dough, cream]
       dough:
        - eggs1
-       - sugar2
        - looo
        - flour3
       cream:
